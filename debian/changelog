@@ -1,0 +1,7 @@
+ros-kinetic-rospy-wrapper (1.0.0-1xenial) xenial; urgency=high
+
+  * first public release of rospy_wrapper
+
+ -- Sean Hackett <seanhackett55@gmail.com>  Wed, 24 Jul 2019 04:00:00 -0000
+
+
